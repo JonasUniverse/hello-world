@@ -1,4 +1,4 @@
-,# hello-world
+# hello-world
 just one repository
 
 I am a alone student and want to do some programing.
