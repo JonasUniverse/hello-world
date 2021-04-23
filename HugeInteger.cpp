@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-//the implement of class HugeInteger 
+//the implementation of class HugeInteger 
 class HugeInteger{
     string value;
     
